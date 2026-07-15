@@ -83,8 +83,6 @@ The dashboard provides insights into:
 
 ## 📈 Business Insights
 
-This dashboard helps answer questions such as:
-
 ## 📈 Key Insights
 
 • Kanwar completed the highest number of trailer moves.
