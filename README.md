@@ -85,11 +85,17 @@ The dashboard provides insights into:
 
 This dashboard helps answer questions such as:
 
-- Which driver completed the most trailer moves?
-- Which shift handled more trailer movements?
-- What is the average trailer move duration?
-- How are trailer moves distributed by priority?
-- How many trailer moves are completed versus pending?
+## 📈 Key Insights
+
+• Kanwar completed the highest number of trailer moves.
+
+• The Morning Shift handled more trailer movements than the Evening Shift.
+
+• High-priority requests represented the largest share of trailer movements.
+
+• 85% of trailer requests were completed successfully.
+
+• Kanwar's average completion time was lower than John's.
 
 ---
 
