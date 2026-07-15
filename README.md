@@ -83,8 +83,6 @@ The dashboard provides insights into:
 
 ## 📈 Business Insights
 
-## 📈 Key Insights
-
 • Kanwar completed the highest number of trailer moves.
 
 • The Morning Shift handled more trailer movements than the Evening Shift.
