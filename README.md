@@ -1,5 +1,7 @@
 # 🚛 Trailer Movement Operations Dashboard
 
+![Dashboard](Images/04_Dashboard.png)
+
 ## 📖 Project Overview
 
 This project demonstrates an end-to-end data analytics workflow using Microsoft Excel. The objective was to transform raw trailer movement data into meaningful business insights through data cleaning, analysis, and visualization.
